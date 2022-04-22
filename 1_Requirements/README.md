@@ -46,3 +46,27 @@ Solar doesn’t work at night.
 | LR01 (HR01) | Specify the rotation based on the sun intansity | Implemented |
 | LR02 (HR02) | Reliability of the switch connected to the LDRs | Implemented |
 | LR03 (HR03) | It's manually turn ON and turn OFF the sourse switch | Implemented |
+
+
+## REQUIRED:
+
+## Solar Panel
+![soler palan](https://user-images.githubusercontent.com/101724850/164704148-fed08a7b-f2b4-4905-92e9-4bc597c39788.jpg)
+
+
+
+
+## LDR
+![LDR](https://user-images.githubusercontent.com/101724850/164704208-6b473c79-e1c4-4edb-bc2a-c3cea203c475.jpg)
+
+
+## Servo Motor
+![servo motor](https://user-images.githubusercontent.com/101724850/164704211-56acd543-6e5d-4a23-ad7e-142db48519be.jpg)
+
+
+## ATmega328
+![ATmega328 pin cong](https://user-images.githubusercontent.com/101724850/164704216-793f8f44-9e18-45a6-8204-36f395bbfabd.jpg)
+
+
+
+
